@@ -1,4 +1,5 @@
-#Some about of web development.
+# Some about of web development.
 
-# part1 : Short Answer Questions
-# part2 : Essay
+part1 : Short Answer Questions
+\n
+part2 : Essay
