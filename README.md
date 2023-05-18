@@ -2,3 +2,6 @@
 
 part1 : Short Answer Questions.  
 part2 : Essay.
+
+
+Note: This pdf file is embedded code. You need to download it.
